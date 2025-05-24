@@ -49,9 +49,9 @@ pip install torch torchvision matplotlib
 
 ##  出力例
 
-![noise](img\noise.png)
-![temp](img\temp.png)
-![end](img\end.png)
+![noise](img/noise.png)
+![temp](img/temp.png)
+![end](img/end.png)
 
 
 ##  ファイル構成
